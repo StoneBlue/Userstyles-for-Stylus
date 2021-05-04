@@ -128,4 +128,8 @@ code {
 .grid-col-8-xl {
 	width: 100%;
 }
+
+.hfsf {
+    display: none;
+}
 }
